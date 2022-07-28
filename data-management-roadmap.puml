@@ -1,0 +1,10 @@
+@startmindmap
++ Data\nmanagement
+++ Data governance
+++ Data architecture
+-- Data modeling
+-- Metadata
+--- Data Catalog
+-- Data quality
+--- Monitoring
+@endmindmap
